@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 6,
+      "firstName": "warit",
+      "lastName": "manhnu",
+      "email": "waritmanhnu3845@gmail.com",
+      "telephone": "0614722618",
+      "salary": "1201245"
+    },
+    {
+      "id": 7,
+      "firstName": "kongpop",
+      "lastName": "inyoo",
+      "email": "kong310544@gmail.com",
+      "telephone": "08045644989",
+      "salary": "22000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
